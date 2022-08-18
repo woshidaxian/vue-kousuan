@@ -108,6 +108,7 @@ export default {
       align-items: center;
       border-radius: 10px;
       color: #fff;
+      box-shadow: 0px 0px 10px 1px #5a5a5a;
       .label{
         width: 60%;
         font-family: 黑体;
